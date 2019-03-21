@@ -3,7 +3,7 @@ This repository holds an updated version of the [annotation tool](https://github
 
 For a walkthrough to the tool functionalities check the [video](https://www.youtube.com/watch?v=uU1wozgjsa0).
 
-*Run* the tool using the provided executable tool.
+*Run* the tool using the provided executable jar.
 
 **Dependencies**: 
 
