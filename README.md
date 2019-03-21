@@ -9,7 +9,7 @@ This repository holds an updated version of the [annotation tool](https://github
 * Operating System: Windows 7 or higher
 * Microsoft Excel: Version 2010 or higher
 
-* Java v1.8.0_121
+* Java 8
 * Apache log4j v2.5
 * Apache POI v3.17
 * Elcipse SWT
