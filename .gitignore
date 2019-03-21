@@ -43,3 +43,4 @@ local.properties
 .svn/
 Desktop.ini
 src/log4j2.xml
+logs/
