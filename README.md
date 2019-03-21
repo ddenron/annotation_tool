@@ -3,10 +3,9 @@ This repository holds an updated version of the [annotation tool](https://github
 
 For a walkthrough to the tool functionalities check the [video](https://www.youtube.com/watch?v=uU1wozgjsa0).
 
-*Run* the tool using the provided executable jar.
+*Run* the tool using the executable SpreadsheetAnnotator.jar
 
 **Dependencies**: 
-
 * Operating System: Windows 7 or higher
 * Microsoft Excel: Version 2010 or higher
 
